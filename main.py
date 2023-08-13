@@ -2,7 +2,7 @@ from faster_whisper import WhisperModel
 from zhconv import convert
 from tencenttranslation import translation
 """
-唉
+唉唉
 """
 def seconds_to_timestamp(seconds):
     hours = seconds // 3600
